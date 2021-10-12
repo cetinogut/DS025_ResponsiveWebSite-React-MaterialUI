@@ -15,6 +15,8 @@ const Blog = () => {
 
             <BlogItem/>
             <BlogItem/>
+            <BlogItem/>
+            <BlogItem/>
         </Container>
     )
 }

@@ -14,7 +14,7 @@ import RightMenuImageList from "./RightMenuImageList"
 const useStyles = makeStyles((theme) => ({
   container: {
     paddingTop: theme.spacing(10),
-    position: "sticky",
+     position: "sticky",
     top: 0,
   },
   title: {

@@ -1,3 +1,10 @@
+# What des this projet contain?
+This is a learning experience for  Material UI as a UX library used with React.
+Material-UI is simply a library that allows us to import and use different components to create a user interface in our React applications. This saves a significant amount of time since the developers do not need to write everything from scratch.
+
+This small project contains only the Material UI components. No routing included.  There is a limited responsiveness in the design.
+Material UI recently announced a new version,v5. But this small project is done with v4 (https://v4.mui.com/)
+Happy coding...
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
