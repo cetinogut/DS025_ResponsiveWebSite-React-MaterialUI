@@ -1,5 +1,5 @@
 # What des this projet contain?
-This is a learning experience for  Material UI as a UX library used with React.
+This is a design experience for  Material UI as a UX library used with React.
 Material-UI is simply a library that allows us to import and use different components to create a user interface in our React applications. This saves a significant amount of time since the developers do not need to write everything from scratch.
 
 This small project contains only the Material UI components. No routing included.  There is a limited responsiveness in the design.
